@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-    char user, carnet, password, condicional;
+    int user, carnet, password, condicional;
     cout << "Hi :), please enter your user and password to log in: "<<endl;
     cout << "User: "<<endl;
     cin >> user;
