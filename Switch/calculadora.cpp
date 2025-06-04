@@ -24,7 +24,7 @@ int main (){
     } else if (option=='c'){
         cout << "The result is: ";
     } else if (option=='d'){
-        cout << "The result is: ";
+        cout << "The result is: "; // se podia poner sin switch xd
     } else {
         cout<< "select a valid option"<<endl;
     }
